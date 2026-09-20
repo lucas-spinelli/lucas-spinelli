@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="left">Hey, I'm Lucas 👋</h1>
 
-<!--
-**lucas-spinelli/lucas-spinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Product Builder · Developer · Designer
+</p>
 
-Here are some ideas to get you started:
+<p>
+  I build digital products, apps and experiments through
+  <a href="https://luckiapps.com"><b>LuckiApps</b></a>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm building
+
+**LuckiApps** — apps, tools, games and experiments.  
+**LuckLabs** — developer tools and experimental technology.
+
+### ⚡ Stack
+
+`Next.js` · `React` · `Node.js` · `TypeScript` · `PostgreSQL` · `Vercel`
+
+### 🧠 I like working on
+
+Product Design · UI/UX · AI Agents · APIs · Mobile · Creator Tools · Social Products
+
+---
+
+[Portfolio](https://luckiapps.com) •
+[Blog](https://blog.luckiapps.com) •
+[Labs](https://lucklabs.org)
